@@ -34,7 +34,7 @@ body {
 }
 
 .bg-image{
-    background-image: url("./img/default-background.png");
+    background-image: url("./assets/img/default-background.png");
     background-attachment: fixed;
 }
 
@@ -71,11 +71,11 @@ body {
 }
 
 .instagram{
-    background-image: url("./svg/instagram.svg")
+    background-image: url("./assets/svg/instagram.svg")
 }
 
 .linkedin{
-    background-image: url("./svg/linkedin.svg");
+    background-image: url("./assets/svg/linkedin.svg");
 }
 
 .header {
@@ -125,7 +125,7 @@ body {
 }
 
 .image-one {
-    background-image: url("./img/office.jpg");
+    background-image: url("./assets/img/office.jpg");
     cursor: zoom-in;
 }
 
@@ -153,31 +153,31 @@ body {
 
 
 .avatar-one {
-    background-image: url("./img/oliver.jpg");
+    background-image: url("./assets/img/oliver.jpg");
 }
 
 .avatar-two {
-    background-image: url("./img/avatar-1.jpg");
+    background-image: url("./assets/img/avatar-1.jpg");
 }
 
 .avatar-three {
-    background-image: url("./img/avatar-4.jpg");
+    background-image: url("./assets/img/avatar-4.jpg");
 }
 
 .avatar-four {
-    background-image: url("./img/avatar-2.jpg");
+    background-image: url("./assets/img/avatar-2.jpg");
 }
 
 .avatar-five {
-    background-image: url("./img/avatar-3.jpg");
+    background-image: url("./assets/img/avatar-3.jpg");
 }
 
 .avatar-six {
-    background-image: url("./img/avatar-5.jpg");
+    background-image: url("./assets/img/avatar-5.jpg");
 }
 
 .avatar-seven {
-    background-image: url("./img/avatar-6.jpg");
+    background-image: url("./assets/img/avatar-6.jpg");
 }
 
 .expand-icon {
